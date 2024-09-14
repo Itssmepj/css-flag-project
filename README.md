@@ -1,2 +1,2 @@
-# css-flag-project
-Made Flag of Laos using CSS.
+css-flag-project
+Made Flag of Laos using CSS styling.
