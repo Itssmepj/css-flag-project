@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *{
     margin-top: 5px;
   }
@@ -32,4 +33,40 @@ div div{
     background-color: #002868;
     text-align: center;
     font-size: 79px;
+=======
+*{
+    margin-top: 5px;
+  }
+
+  /* Red flag */
+.flag{
+    background-color: #ce1126;
+    color: white;
+    font-size: 63px;
+    height: 600px;
+    width: 900px;
+    text-align: center;
+  }
+
+  /* White circle */
+div div p{
+    background-color: white;
+    color: black;
+    margin-top: 77px;
+    margin-left: 38%;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    position: relative;
+    top: 42px;
+  }
+  
+  /* Blue flag */
+div div{
+    height: 300px;
+    width: 900px;
+    background-color: #002868;
+    text-align: center;
+    font-size: 79px;
+>>>>>>> 3e1f85b8e6a74e4b073feca4abdb3e4350fe5dd3
   }
